@@ -2,7 +2,7 @@
   
 - 🌱 Currently pursuing Bachelor's in Computer Engineering (Final Year)
 - 📖 Interests: React Native, React, NodeJS, Web3(Solidity) 
-- 🤔 I’m looking for help with machine learning
+- 🤔 I’m looking for help with machine learning projects
 
 
 <details>
