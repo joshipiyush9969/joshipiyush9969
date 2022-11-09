@@ -1,16 +1,18 @@
 ### Hi there 👋
+  
+- 🌱 Currently pursuing Bachelor's in Computer Engineering (Final Year)
+- 📖 Interests: React Native, React, NodeJS, Web3(Solidity) 
+- 🤔 I’m looking for help with machine learning
 
-<!--
-**joshipiyush9969/joshipiyush9969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+  <summary>My github stats</summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=joshipiyush99693&count_private=false&theme=react&hide_border=0" />
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>My most used languages</summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshipiyush9969&count_private=false&theme=react&hide_border=1" />
+</details>
